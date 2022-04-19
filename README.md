@@ -5,7 +5,7 @@
 LocalToNet free tier is not suitable for long-term use cases.
 
 ---
-# Docker CLI
+# Docker CLI:
 
 ### Download/Update the image:
 ```
